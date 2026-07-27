@@ -1,12 +1,13 @@
-# AI-ML Engineer Academy
+# AI-ML Engineer RoadMap
 
-> My complete journey to becoming a Production AI/ML Engineer.
+> Journey to becoming a Production AI/ML Engineer.
 
 ---
 
 ## 🎯 Mission
 
-This repository documents my learning journey from software engineering fundamentals to building production-ready AI/ML systems.
+This repository serves as complete learning roadmap for becoming a Production AI/ML Engineer. It includes study plans, notes, hands-on practice, projects, interview preparation, and an enterprise-level AI capstone project.
+
 
 The goal is not just to learn algorithms, but to become an engineer capable of designing, developing, deploying, and maintaining real-world AI applications.
 
